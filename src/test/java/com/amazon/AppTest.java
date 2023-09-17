@@ -4,8 +4,6 @@ import org.testng.annotations.Test;
 
 import com.amazon.Pages.homepage;
 
-import java.util.ArrayList;
-import java.util.Set;
 
 import org.openqa.selenium.*;
 import org.testng.Assert;
